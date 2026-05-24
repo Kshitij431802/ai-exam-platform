@@ -10,11 +10,11 @@
   <button>Home</button>
 </a>
 
-<a href="/courses">
+<a href="#">
   <button>Courses</button>
 </a>
 
-<a href="/about">
+<a href="#">
   <button>About</button>
 </a>
 
