@@ -4,7 +4,7 @@
 
       {/* Navbar */}
       <nav className="flex justify-between items-center p-6 border-b border-gray-800">
-        <h1 className="text-2xl font-bold">CSIR AI</h1>
+        <h1 className="text-2xl font-bold">CSIR NET|GATE AI</h1>
 
         <button>Home</button>
 <button>Courses</button>
@@ -23,12 +23,12 @@
       <section className="flex flex-col items-center justify-center text-center py-32 px-6">
 
         <h1 className="text-6xl font-bold mb-6">
-          AI Powered CSIR NET/GATE Platform
+          AI Powered CSIR NET|GATE Platform
         </h1>
 
         <p className="text-xl text-gray-300 max-w-2xl">
-          Learn a topic, solve MCQs, upload PDFs,
-          and prepare smarter with AI tools.
+          Learn a topic, Solve MCQs, Upload PDFs,
+          and Prepare smarter with AI tools.
         </p>
 
         <button className="mt-8 px-8 py-4 bg-blue-600 rounded-2xl hover:bg-blue-700">
@@ -46,7 +46,7 @@
           </h2>
 
           <p>
-            Generate smart chemistry notes instantly.
+            Generate smart notes instantly.
           </p>
         </div>
 
@@ -66,7 +66,7 @@
           </h2>
 
           <p>
-            Upload book or pdf and study with AI.
+            Upload a Topic and study with AI.
           </p>
         </div>
 
@@ -123,7 +123,7 @@
 
     <div className="bg-gray-800 p-8 rounded-2xl">
       <p className="mb-4">
-        “Best platform for CSIR NET|GATE preparation.”
+        “Best platform for CSIR NET|GATE”
       </p>
 
       <h3 className="font-bold">
@@ -157,7 +157,7 @@
 <section className="py-20 px-6 text-center">
 
   <h2 className="text-4xl font-bold mb-10">
-    Pricing Plans
+     Plans
   </h2>
 
   <div className="grid md:grid-cols-3 gap-6">
@@ -182,7 +182,7 @@
       </h3>
 
       <p className="text-4xl font-bold mb-4">
-        ₹99
+        ₹49
       </p>
 
       <p>
@@ -196,7 +196,7 @@
       </h3>
 
       <p className="text-4xl font-bold mb-4">
-        ₹199
+        ₹99
       </p>
 
       <p>
@@ -214,7 +214,7 @@
   </h2>
 
   <p className="text-gray-300 mb-6">
-    Start your AI-powered smart preparation today.
+    Start your AI-powered preparation today.
   </p>
 
   <button className="bg-blue-600 hover:bg-blue-700 px-8 py-4 rounded-2xl text-white font-bold">
@@ -223,7 +223,7 @@
 
 </section>
      <footer className="border-t border-gray-800 text-center py-6 text-gray-400">
-  © 2026 AI Platform • Built by Kshitij🚀
+  ©  AI Platform 2026 • Built by Kshitij🚀
 </footer> 
 
     </main>
