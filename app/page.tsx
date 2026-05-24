@@ -6,9 +6,17 @@
       <nav className="flex justify-between items-center p-6 border-b border-gray-800">
         <h1 className="text-2xl font-bold">CSIR NET|GATE AI</h1>
 
-        <button>Home</button>
-<button>Courses</button>
-<button>About</button>
+        <a href="/">
+  <button>Home</button>
+</a>
+
+<a href="/courses">
+  <button>Courses</button>
+</a>
+
+<a href="/about">
+  <button>About</button>
+</a>
 
 <button className="bg-blue-600 px-4 py-2 rounded-xl">
   Login
