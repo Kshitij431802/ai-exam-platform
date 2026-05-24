@@ -75,7 +75,7 @@
 <section className="py-20 px-6 text-center">
 
   <h2 className="text-4xl font-bold mb-10">
-    Best for
+    Tools
   </h2>
 
   <div className="grid md:grid-cols-3 gap-6">
@@ -106,7 +106,7 @@
       </h3>
 
       <p>
-        Solve MCQs and improve your CSIR NET rank.
+        Solve MCQs and improve your Smartness.
       </p>
     </div>
 
@@ -123,11 +123,11 @@
 
     <div className="bg-gray-800 p-8 rounded-2xl">
       <p className="mb-4">
-        “Best platform for CSIR NET preparation.”
+        “Best platform for CSIR NET|GATE preparation.”
       </p>
 
       <h3 className="font-bold">
-        — Rahul
+        — Vaishnavi
       </h3>
     </div>
 
@@ -137,7 +137,7 @@
       </p>
 
       <h3 className="font-bold">
-        — Priya
+        — Sumedh
       </h3>
     </div>
 
@@ -147,7 +147,7 @@
       </p>
 
       <h3 className="font-bold">
-        — Amit
+        — Gitanjali
       </h3>
     </div>
 
@@ -182,7 +182,7 @@
       </h3>
 
       <p className="text-4xl font-bold mb-4">
-        ₹499
+        ₹99
       </p>
 
       <p>
@@ -196,7 +196,7 @@
       </h3>
 
       <p className="text-4xl font-bold mb-4">
-        ₹999
+        ₹199
       </p>
 
       <p>
@@ -214,16 +214,16 @@
   </h2>
 
   <p className="text-gray-300 mb-6">
-    Start your AI-powered chemistry preparation today.
+    Start your AI-powered smart preparation today.
   </p>
 
   <button className="bg-blue-600 hover:bg-blue-700 px-8 py-4 rounded-2xl text-white font-bold">
-    Contact Now 📩
+    Contact Now kshitijgundewar12345@gmail.com
   </button>
 
 </section>
      <footer className="border-t border-gray-800 text-center py-6 text-gray-400">
-  © 2026 CSIR AI Platform • Built by Kshitij🚀
+  © 2026 AI Platform • Built by Kshitij🚀
 </footer> 
 
     </main>
